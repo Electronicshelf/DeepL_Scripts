@@ -1,0 +1,6 @@
+/home/e/.virtualenvs/cv/lib/python2.7/site-packages
+xdg-open .virtualenvs/cv/lib/python2.7/site-packages/ 
+ 
+
+% To work on on the virtual enviroment......
+workon cv
